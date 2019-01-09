@@ -39,7 +39,7 @@ j. Compare this version to the original (v1). How would adding the features
    in part i have been more difficult if the game wasn't refactored
    to use a confirm function?
 
-k. List several inputs that could be used to 'unit test' your
+k. List several function calls that could be used to 'unit test' your
    case-insensitive confirm function.
 
 l. Explain how parts of your code become reusable because of refactoring.
